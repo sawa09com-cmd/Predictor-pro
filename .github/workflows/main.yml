@@ -1,4 +1,4 @@
-package com.predictpro.app;
+packa
 
 import android.app.Activity;
 import android.os.Bundle;
@@ -46,6 +46,4 @@ public class MainActivity extends Activity {
         layout.addView(predictButton);
         layout.addView(result);
 
-        setContentView(layout);
-    }
-}
+        setContent
